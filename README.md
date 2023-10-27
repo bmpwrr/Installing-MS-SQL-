@@ -68,7 +68,7 @@ Now, in the textbox put "NETWORK SERVICES" and click "Check Names". Once that is
 
 
 
-**8))** Now, on your Windows Event Viewer, you can now view the successful/failed logons. 
+**8)** Now, on your Windows Event Viewer, you can now view the successful/failed logons. 
 ![9](https://github.com/bmpwrr/Installing-MS-SQL-/assets/144153997/7e305372-94fe-4d3c-a567-0bcdca28b75a)
 
 Conclusion
